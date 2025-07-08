@@ -46,7 +46,7 @@ PixAI is a next-generation Flutter application that lets you generate stunning i
     </tr>
     <tr>
       <td><img src="readme/generating.png" width="180"/></td>
-      <td><img src="generating page.png" width="180"/></td>
+      <td><img src="readme/generating page.png" width="180"/></td>
       <td><img src="readme/profile.png" width="180"/></td>
     </tr>
     <tr>
