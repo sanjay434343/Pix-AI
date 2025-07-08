@@ -40,17 +40,17 @@ PixAI is a next-generation Flutter application that lets you generate stunning i
   <!-- Screenshots grid -->
   <table>
     <tr>
-      <td><img src="assets/images/readme/splash.png" width="180"/></td>
-      <td><img src="assets/images/readme/home.png" width="180"/></td>
-      <td><img src="assets/images/readme/staggred grid.png" width="180"/></td>
+      <td><img src="readme/splash.png" width="180"/></td>
+      <td><img src="readme/home.png" width="180"/></td>
+      <td><img src="readme/staggred grid.png" width="180"/></td>
     </tr>
     <tr>
-      <td><img src="assets/images/readme/generating.png" width="180"/></td>
-      <td><img src="assets/images/readme/generating page.png" width="180"/></td>
-      <td><img src="assets/images/readme/profile.png" width="180"/></td>
+      <td><img src="readme/generating.png" width="180"/></td>
+      <td><img src="generating page.png" width="180"/></td>
+      <td><img src="readme/profile.png" width="180"/></td>
     </tr>
     <tr>
-      <td><img src="assets/images/readme/backup and restore.png" width="180"/></td>
+      <td><img src="readme/backup and restore.png" width="180"/></td>
       <td></td>
       <td></td>
     </tr>
