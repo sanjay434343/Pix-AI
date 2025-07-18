@@ -28,7 +28,7 @@ class AuthService extends ChangeNotifier {
     try {
       // Remove serverClientId for Android to avoid DEVELOPER_ERROR (code 10)
       _googleSignIn ??= GoogleSignIn(
-        // serverClientId: '539688015669-kftqraf6sfp3r962c2bdkvhivggijhn8.apps.googleusercontent.com',
+
       );
       return _googleSignIn;
     } catch (e) {
